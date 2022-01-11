@@ -1,0 +1,67 @@
+[
+  {
+    "handle": "8gdQkWEyaeSpDQT7ADkTCjyd5fURf2nSKywX3zjdfvTL",
+    "amount": 1,
+    "url": "https://lwus.github.io/metaplex/claim?distributor=99agNsCerjrsc6fAGWTfx6Tk1qHzSn4Eh5RuskcUXykG&handle=8gdQkWEyaeSpDQT7ADkTCjyd5fURf2nSKywX3zjdfvTL&amount=1&index=0&proof=9qLAVAbZG6wep26KpGff8krkX2tuEL4yhDg7z2SQt1Mc,G61ViangugLrnTpTN35HqsCWYhgX5k1vXDifRP2P3ZM6&pin=NA&master=5wUJTYVAwD6j9uREgxoN2nb1QmWpVmvsmbYY9HVKsQmk&edition=1"
+  },
+  {
+    "handle": "9KF7NUsVzVbUuJats7Q2tsXBENBPQxAsgXoVAwvap6xk",
+    "amount": 1,
+    "url": "https://lwus.github.io/metaplex/claim?distributor=99agNsCerjrsc6fAGWTfx6Tk1qHzSn4Eh5RuskcUXykG&handle=9KF7NUsVzVbUuJats7Q2tsXBENBPQxAsgXoVAwvap6xk&amount=1&index=1&proof=55BuNsUFs62xhx5VtzVLu1dobsM8TEu2CXBb2W3bT9E7,G61ViangugLrnTpTN35HqsCWYhgX5k1vXDifRP2P3ZM6&pin=NA&master=5wUJTYVAwD6j9uREgxoN2nb1QmWpVmvsmbYY9HVKsQmk&edition=2"
+  },
+  {
+    "handle": "GMpK37RdTKGLGAwhpEdifFrsVApkmZKJExreCB1qUMw7",
+    "amount": 1,
+    "url": "https://lwus.github.io/metaplex/claim?distributor=99agNsCerjrsc6fAGWTfx6Tk1qHzSn4Eh5RuskcUXykG&handle=GMpK37RdTKGLGAwhpEdifFrsVApkmZKJExreCB1qUMw7&amount=1&index=2&proof=FWRm9Tf7UDkkBvkKMkZjqMZGQZ4ZQ4C6rYX1YuVAk7bh,8pCPGGxaVxeQWJFYFLhmKhZFEvgsrN8tk4AmUJkG5kfx&pin=NA&master=5wUJTYVAwD6j9uREgxoN2nb1QmWpVmvsmbYY9HVKsQmk&edition=3"
+  },
+  {
+    "handle": "GJxEqRB4FvonTeU4UFv9uP1htxhxZpXyiaMUkyYgcRrb",
+    "amount": 1,
+    "url": "https://lwus.github.io/metaplex/claim?distributor=99agNsCerjrsc6fAGWTfx6Tk1qHzSn4Eh5RuskcUXykG&handle=GJxEqRB4FvonTeU4UFv9uP1htxhxZpXyiaMUkyYgcRrb&amount=1&index=3&proof=93mYVW7VFZQr9npci97siDYyPh37rLHohbxoPacenKQG,8pCPGGxaVxeQWJFYFLhmKhZFEvgsrN8tk4AmUJkG5kfx&pin=NA&master=5wUJTYVAwD6j9uREgxoN2nb1QmWpVmvsmbYY9HVKsQmk&edition=4"
+  },
+  {
+    "handle": "9SHC6DKqREuoaA6diiH5GH24WDaid9HJXtzg9xkGokz5",
+    "amount": 1,
+    "url": "https://lwus.github.io/metaplex/claim?distributor=7iUicjFKie2QReGPkz6NxGt8JNhDMvHz6zww8kQ7KxYE&handle=9SHC6DKqREuoaA6diiH5GH24WDaid9HJXtzg9xkGokz5&amount=1&index=0&proof=8udcmnMAjaaHNbPbZJW5srhpUiBFmKgmeFiL1bCZt347,2r9GebVB11vhXrydgyKPjGjgft68nKVL4m21iR8QfvZy,7QEcAWKcBh6WgWxbrRSndoeCC3Zz76DAZgxTmZHd2jR8&pin=NA&master=5joQp5xTrmpvrCMAJzUb1Ja9HZwVmXRUWAhjZVBM6aTV&edition=1"
+  },
+  {
+    "handle": "3SvYbx8d1kEniYzLVCvBwU3bpsrTKMXFChDmFza4wd62",
+    "amount": 1,
+    "url": "https://lwus.github.io/metaplex/claim?distributor=7iUicjFKie2QReGPkz6NxGt8JNhDMvHz6zww8kQ7KxYE&handle=3SvYbx8d1kEniYzLVCvBwU3bpsrTKMXFChDmFza4wd62&amount=1&index=1&proof=5rRvnN1CTojj3eFRAevcLCyvRDM67uLk9AmwctSZ9hFj,2r9GebVB11vhXrydgyKPjGjgft68nKVL4m21iR8QfvZy,7QEcAWKcBh6WgWxbrRSndoeCC3Zz76DAZgxTmZHd2jR8&pin=NA&master=5joQp5xTrmpvrCMAJzUb1Ja9HZwVmXRUWAhjZVBM6aTV&edition=2"
+  },
+  {
+    "handle": "HRXVUmyowUDPku6M8UsoY62NzZUknvJkUCgAq8s6Rdqs",
+    "amount": 1,
+    "url": "https://lwus.github.io/metaplex/claim?distributor=7iUicjFKie2QReGPkz6NxGt8JNhDMvHz6zww8kQ7KxYE&handle=HRXVUmyowUDPku6M8UsoY62NzZUknvJkUCgAq8s6Rdqs&amount=1&index=2&proof=AtxJ5jqgxdisBKK2BCmYFwj74tA8YzFmUxuHzzA2rrFq,EVCS6miVaYWj9r3qe4LoCJercttsmv3V59wU82jZYPqp,7QEcAWKcBh6WgWxbrRSndoeCC3Zz76DAZgxTmZHd2jR8&pin=NA&master=5joQp5xTrmpvrCMAJzUb1Ja9HZwVmXRUWAhjZVBM6aTV&edition=3"
+  },
+  {
+    "handle": "44cuFUN1LyZE4kksvXnWCtXsSTXDbvsqZMB8a5Mcpkrg",
+    "amount": 1,
+    "url": "https://lwus.github.io/metaplex/claim?distributor=7iUicjFKie2QReGPkz6NxGt8JNhDMvHz6zww8kQ7KxYE&handle=44cuFUN1LyZE4kksvXnWCtXsSTXDbvsqZMB8a5Mcpkrg&amount=1&index=3&proof=23KEHAx9QGhUru32uWHQtKcJp5ukUXtBSKuopAmuWi2h,EVCS6miVaYWj9r3qe4LoCJercttsmv3V59wU82jZYPqp,7QEcAWKcBh6WgWxbrRSndoeCC3Zz76DAZgxTmZHd2jR8&pin=NA&master=5joQp5xTrmpvrCMAJzUb1Ja9HZwVmXRUWAhjZVBM6aTV&edition=4"
+  },
+  {
+    "handle": "FAZNHdkFi4gi2dfwXAE121rXP4xrRNA2kVXHuP6b4oTg",
+    "amount": 1,
+    "url": "https://lwus.github.io/metaplex/claim?distributor=7iUicjFKie2QReGPkz6NxGt8JNhDMvHz6zww8kQ7KxYE&handle=FAZNHdkFi4gi2dfwXAE121rXP4xrRNA2kVXHuP6b4oTg&amount=1&index=4&proof=GaAagZQwqPtMeW6GtoYEdkqshqxx79zEeR1Tq9888xvm&pin=NA&master=5joQp5xTrmpvrCMAJzUb1Ja9HZwVmXRUWAhjZVBM6aTV&edition=5"
+  },
+  {
+    "handle": "FZe1Vg2K7YXZz3GyiEnUD3BQYb1f6f7eCog5LUy6rpiJ",
+    "amount": 1,
+    "url": "https://lwus.github.io/metaplex/claim?distributor=4Q2okYAhwmUEr14VVxreoKwE5p5Z4S2i271EhfUyGYLe&handle=FZe1Vg2K7YXZz3GyiEnUD3BQYb1f6f7eCog5LUy6rpiJ&amount=1&index=0&proof=9YWcATCzZqyEqHVZJxVRp1pDuqvpTBvJFub7d4wt6pju,HAEctDBUosG547U1r88KJYcjHUD6bwdzkJhq89HMbVKw&pin=NA&master=BidFyePTWLVGQFedFk7obYV3dFPTXBzPKVheuyPy5rgw&edition=1"
+  },
+  {
+    "handle": "HCXSn1nWnCG9XCeKUY5FfoM8aJ5yPXYeWQPEAZDogeQU",
+    "amount": 1,
+    "url": "https://lwus.github.io/metaplex/claim?distributor=4Q2okYAhwmUEr14VVxreoKwE5p5Z4S2i271EhfUyGYLe&handle=HCXSn1nWnCG9XCeKUY5FfoM8aJ5yPXYeWQPEAZDogeQU&amount=1&index=1&proof=D4V3xAK3vvVBJkJHVKP2giAf4J6WUtUPLfeaL7JUatXe,HAEctDBUosG547U1r88KJYcjHUD6bwdzkJhq89HMbVKw&pin=NA&master=BidFyePTWLVGQFedFk7obYV3dFPTXBzPKVheuyPy5rgw&edition=2"
+  },
+  {
+    "handle": "u5d83v6tJd3PyNGvcAeqoA8iggf3eLkx3Wtw2yJyZMb",
+    "amount": 1,
+    "url": "https://lwus.github.io/metaplex/claim?distributor=4Q2okYAhwmUEr14VVxreoKwE5p5Z4S2i271EhfUyGYLe&handle=u5d83v6tJd3PyNGvcAeqoA8iggf3eLkx3Wtw2yJyZMb&amount=1&index=2&proof=8HKvLWYqAT7QLEWLMqdJuRErbgzB4XrgAqpzT9S4yr5W,EZWe1tGuW2yVX5vqCCRMVD2W8dozVTvBeTJG8MkbXcdy&pin=NA&master=BidFyePTWLVGQFedFk7obYV3dFPTXBzPKVheuyPy5rgw&edition=3"
+  },
+  {
+    "handle": "FeikG7Kui7zw8srzShhrPv2TJgwAn61GU7m8xmaK9GnW",
+    "amount": 1,
+    "url": "https://lwus.github.io/metaplex/claim?distributor=4Q2okYAhwmUEr14VVxreoKwE5p5Z4S2i271EhfUyGYLe&handle=FeikG7Kui7zw8srzShhrPv2TJgwAn61GU7m8xmaK9GnW&amount=1&index=3&proof=8Z7pzeQvQWYGYiSEUB66BBqnpuD3SL6tktKjpwSzy5RG,EZWe1tGuW2yVX5vqCCRMVD2W8dozVTvBeTJG8MkbXcdy&pin=NA&master=BidFyePTWLVGQFedFk7obYV3dFPTXBzPKVheuyPy5rgw&edition=4"
+  }
+]

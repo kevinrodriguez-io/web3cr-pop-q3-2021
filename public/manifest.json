@@ -1,0 +1,8 @@
+{
+  "short_name": "Web3CR 2021 Proof of Participation",
+  "name": "Web3CR 2021 Proof of Participation",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
